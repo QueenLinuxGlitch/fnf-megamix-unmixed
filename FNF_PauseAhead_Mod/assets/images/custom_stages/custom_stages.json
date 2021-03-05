@@ -1,0 +1,11 @@
+{
+  "template": "stage",
+  "templateLimo": "limo",
+  "templatePhilly": "philly",
+  "templateSpooky": "spooky",
+  "templateMall": "mall",
+  "templateEvilMall": "mallEvil",
+  "templateSchool": "school",
+  "Game": "stage",
+  "EvilGame": "mallEvil"
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="helicopter_lol.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 0000" x="0" y="0" width="939" height="443" frameX="0" frameY="-1" frameWidth="939" frameHeight="444"/>
+	<SubTexture name="Symbol 0001" x="939" y="0" width="917" height="444" frameX="0" frameY="0" frameWidth="939" frameHeight="444"/>
+	<SubTexture name="Symbol 0002" x="0" y="444" width="926" height="427" frameX="0" frameY="-17" frameWidth="939" frameHeight="444"/>
+</TextureAtlas>

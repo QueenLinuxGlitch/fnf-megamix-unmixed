@@ -1,0 +1,30 @@
+{
+  "difficulties": [
+    {
+      "offset": 20,
+      "anim": "EASY",
+      "name": "easy"
+    },
+    {
+      "offset": 70,
+      "anim": "NORMAL",
+      "name": "normal"
+    },
+    {
+      "offset": 20,
+      "anim": "HARD",
+      "name": "hard"
+    },
+    {
+      "offset": 60,
+      "anim": "NORMAL",
+      "name": "bside"
+    },
+    {
+      "offset": 20,
+      "anim": "HARD",
+      "name": "hellbeats"
+    }
+  ],
+  "defaultDiff": 1
+}
